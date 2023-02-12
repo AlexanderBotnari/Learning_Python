@@ -3,10 +3,10 @@ from random import randint
 
 
 class House:
+    money = 100
+    food = 50
 
     def __init__(self):
-        self.money = 100
-        self.food = 50
         self.dirt = 0
 
     def __str__(self):
@@ -122,7 +122,3 @@ for day in range(365):
     cprint(serge, color='cyan')
     cprint(masha, color='cyan')
     cprint(home, color='cyan')
-
-cprint("Shuba", masha.coat_points)
-cprint("Money", home.money)
-cprint("Food", home.food)
