@@ -16,3 +16,12 @@
 # Если не хватает инградиентов - создать соответствующие функции в модуле my_burger
 
 # TODO здесь ваш код
+import my_burger
+my_burger.add_bulociki()
+my_burger.add_sir()
+my_burger.add_cotleta()
+my_burger.add_sir()
+my_burger.add_pomidorcik()
+my_burger.add_ogurcik()
+my_burger.add_maionez()
+my_burger.add_bulociki()
