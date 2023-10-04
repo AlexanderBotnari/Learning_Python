@@ -1,0 +1,8 @@
+blue
+red
+green
+yellow
+indigo
+violet
+dark green
+dark blue
