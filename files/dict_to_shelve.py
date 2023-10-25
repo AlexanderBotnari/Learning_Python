@@ -29,5 +29,5 @@ university['tutors'] = {
     'Python': ['Youra Alah', 'Will Turner']
 }
 
-print(university['tutors'])
+print(university['schedules'])
 university.close()
